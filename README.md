@@ -16,5 +16,6 @@
 
 ## Points to be checked.
 
-- Check the time it takes for the website to load completely<br>
-- Check the local console logs, it would throw the timeout error
+- Check whether the website is loading or not before the session ends <br>
+- If the website loads, check the time it took to load <br>
+- Check the local console logs to see if there is any timeout error received
