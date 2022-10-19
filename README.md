@@ -1,11 +1,16 @@
 # WDIO-local-sample
 
 ## Setup
-* Clone the repo
-* Install dependencies `npm install`
+* Clone the repo <br>
+
+`git clone https://github.com/SachinMNair/WDIO-local-sample.git`
+
+* Install dependencies <br>
+
+`npm install`
 
 ## Running your tests
-- To run a single test, run <br>
+- Run the test <br>
 
 `npm run wdio`
 
